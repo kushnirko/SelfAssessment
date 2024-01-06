@@ -9,17 +9,17 @@
   - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🎓 known
   - Object-based programming: 👂 heard
-  - Generic programming:
-  - Concurrent computing:
+  - Generic programming
+  - Concurrent computing
   - Asyncronous programming: 👂 heard
-  - Parallel programming:
+  - Parallel programming
   - Reactive programming: 🎓 known
-  - FRP (Functional-reactive):
+  - FRP (Functional-reactive)
   - Automata-based programming: 🙋 explained
-  - Domain-specific languages:
+  - Domain-specific languages
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
-  - Actor model:
+  - Actor model
 - OOP basics
   - constructor: 🙋 explained
   - new: 🙋 explained
@@ -33,18 +33,18 @@
   - Inheritance: 🎓 known
   - Parent class: 🎓 known
   - Polymorphism: 👂 heard
-  - Abstract class:
-  - Interface:
+  - Abstract class
+  - Interface
   - Encapsulation: 🖐️ used
   - Hidden class: 👂 heard
-  - Object form:
+  - Object form
   - instance: 🙋 explained
   - Introspection: 👂 heard
   - Reflection: 👂 heard
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🖐️ used
-  - Abstract Factory: 
+  - Abstract Factory
   - Adapter: 🎓 known
   - Observer: 👂 heard
   - Strategy: 🎓 known
@@ -53,14 +53,14 @@
   - Chain of Responsibility: 🎓 known
   - Command: 🎓 known
   - Iterator: 👂 heard
-  - State:
-  - Bridge:
+  - State
+  - Bridge
   - Builder: 👂 heard
   - Prototype: 👂 heard
-  - Composite:
+  - Composite
   - Decorator: 👂 heard
-  - Flyweight:
-  - Mediator:
-  - Memento:
-  - Template Method:
-  - Visitor:
+  - Flyweight
+  - Mediator
+  - Memento
+  - Template Method
+  - Visitor
