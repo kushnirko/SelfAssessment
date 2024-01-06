@@ -4,42 +4,42 @@
   - Object: 🙋 explained
   - this: 🙋 explained
   - arrow function: 🙋 explained
-  - async function: 👂 heard
-  - call: 🎓 known
-  - bind: 🎓 known
-  - apply: 🎓 known
-  - instanceof: 🖐️ used
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🙋 explained
+  - instanceof: 🙋 explained
   - ...spread: 🙋 explained
   - ...rest: 🙋 explained
-  - typeof: 🖐️ used
+  - typeof: 🙋 explained
   - destructuring: 🙋 explained
-  - generator: 👂 heard
-  - iterator: 🎓 known
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
-  - chaining: 🖐️ used
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
+  - async generator: 🎓 known
+  - async iterator: 🙋 explained
+  - chaining: 🙋 explained
   - optional chaining: 🙋 explained
   - IIFE: 🙋 explained
-  - global: 🎓 known
-  - globalThis: 🎓 known 
-  - window: 🖐️ used
+  - global: 🙋 explained
+  - globalThis: 🙋 explained 
+  - window: 🙋 explained
   - getters and setters: 🙋 explained
-  - __proto__: 🎓 known
-  - prototype: 🎓 known
+  - __proto__: 🙋 explained
+  - prototype: 🙋 explained
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
   - bitwise operators: 🎓 known
   - ternary operator: 🙋 explained
-  - void: 🎓 known
-  - yield: 👂 heard
-  - await: 👂 heard
+  - void: 🙋 explained
+  - yield: 🙋 explained
+  - await: 🙋 explained
   - template literal: 🙋 explained
   - strict mode: 🙋 explained
   - delete: 🙋 explained
   - in: 🙋 explained
   - super: 🙋 explained
-  - Symbol: 🎓 known
-  - Reflect: 🎓 known
+  - Symbol: 🙋 explained
+  - Reflect: 🙋 explained
 - Statements
   - if: 🙋 explained
   - while: 🙋 explained
@@ -47,18 +47,18 @@
   - for: 🙋 explained
   - for..in: 🙋 explained
   - for..of: 🙋 explained
-  - for await: 👂 heard
+  - for await: 🙋 explained
   - throw: 🙋 explained
   - break: 🙋 explained
   - continue: 🙋 explained
   - import: 🙋 explained
   - export: 🙋 explained
-  - label: 🎓 known
+  - label: 🙋 explained
   - try..catch: 🙋 explained
   - switch: 🙋 explained
   - class: 🙋 explained
   - new Error: 🙋 explained
-  - with: 🎓 known
+  - with: 🙋 explained
 - Functions
   - function declaration: 🙋 explained
   - function expression: 🙋 explained
@@ -67,23 +67,23 @@
   - functional object: 🙋 explained
 - Data structures
   - Array: 🙋 explained
-  - mixin: 🎓 known
+  - mixin: 🙋 explained
   - extend: 🙋 explained
   - typed arrays: 🙋 explained
   - Map: 🙋 explained
   - Set: 🙋 explained
   - undefined: 🙋 explained
   - null: 🙋 explained
-  - Proxy: 👂 heard
-  - weak collections
-  - timers: 🎓 known
+  - Proxy: 🙋 explained
+  - weak collections: 🎓 known
+  - timers: 🙋 explained
   - EventEmitter: 🙋 explained
-  - RegExp: 🎓 known
+  - RegExp: 🙋 explained
   - Date: 🙋 explained
   - BigInt: 🙋 explained
 - Infrastructure
-  - V8: 🎓 known
-  - Node.js: 🎓 known
-  - npm: 🎓 known
-  - prettier: 🎓 known
-  - MDN: 🖐️ used
+  - V8: 🙋 explained
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🙋 explained

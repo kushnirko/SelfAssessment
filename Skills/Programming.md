@@ -13,8 +13,8 @@
   - procedure: 🙋 explained
   - method: 🙋 explained
   - class: 🙋 explained
-  - prototype: 🎓 known
-  - event: 👂 heard
+  - prototype: 🙋 explained
+  - event: 🙋 explained
   - type: 🙋 explained
   - primitive types: 🙋 explained
   - reference types: 🙋 explained
@@ -24,34 +24,34 @@
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
-  - regular expression: 👂 heard
-  - interface: 👂 heard
-  - contract: 👂 heard
-  - module: 👂 heard
-  - call stack: 🎓 known
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature: 👂 heard
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
   - pure function: 🙋 explained
   - lambda expression: 🙋 explained
   - side effects: 🙋 explained
   - closure: 🙋 explained
   - partial application: 🙋 explained
   - curry: 🎓 known
-  - higher order: 🎓 known
-  - recursion: 🎓 known
-  - callback: 🎓 known
-  - listener: 👂 heard
+  - higher order: 🙋 explained
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
   - compose: 🙋 explained
   - pipe: 🎓 known
   - memoize: 🎓 known
-  - wrapper: 🎓 known
-  - functor: 👂 heard
-  - monad: 👂 heard
-  - monoid:
-  - generator: 👂 heard
-  - coroutine:
+  - wrapper: 🙋 explained
+  - functor: 🙋 explained
+  - monad: 🎓 known
+  - monoid: 🎓 known
+  - generator: 🙋 explained
+  - coroutine: 👂 heard
 - Data structures
   - array: 🙋 explained
   - structure: 🖐️ used
@@ -70,24 +70,24 @@
   - queue: 🙋 explained
   - stack: 🙋 explained
   - deque: 🙋 explained
-  - tree: 🎓 known
-  - graph: 🎓 known
-  - iterator: 🎓 known
+  - tree: 🙋 explained
+  - graph: 🙋 explained
+  - iterator: 🙋 explained
   - mutable state: 🎓 known
   - immutable state: 🎓 known
-  - serialization: 🖐️ used
-  - string parsing: 🖐️ used
+  - serialization: 🙋 explained
+  - string parsing: 🙋 explained
 - Process & style
-  - compiler: 🎓 known
-  - transpiler: 👂 heard
-  - linter: 🎓 known
-  - polyfill: 👂 heard
-  - debugger: 🎓 known
-  - garbage collection: 👂 heard
-  - refactoring: 🖐️ used
-  - code review: 🖐️ used
+  - compiler: 🙋 explained
+  - transpiler: 🙋 explained
+  - linter: 🙋 explained
+  - polyfill: 🙋 explained
+  - debugger: 🖐️ used
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
   - antipatterns: 🙋 explained
-  - paradigm: 🎓 known
+  - paradigm: 🙋 explained
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
   - hardcode: 🙋 explained
@@ -100,7 +100,7 @@
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
   - exception: 🙋 explained
-  - return early: 🖐️ used
-  - unittest: 👂 heard
+  - return early: 🙋 explained
+  - unittest: 🎓 known
   - git: 🖐️ used
-  - github: 🖐️ used
+  - github: 🙋 explained
