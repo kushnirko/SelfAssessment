@@ -33,8 +33,8 @@
   - Inheritance: 🎓 known
   - Parent class: 🎓 known
   - Polymorphism: 👂 heard
-  - Abstract class
-  - Interface
+  - Abstract class:
+  - Interface:
   - Encapsulation: 🖐️ used
   - Hidden class: 👂 heard
   - Object form:
