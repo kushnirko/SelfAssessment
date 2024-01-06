@@ -47,7 +47,7 @@
   - for: 🙋 explained
   - for..in: 🙋 explained
   - for..of: 🙋 explained
-  - for await: 👂 heard
+  - for await: 🙋 explained
   - throw: 🙋 explained
   - break: 🙋 explained
   - continue: 🙋 explained
