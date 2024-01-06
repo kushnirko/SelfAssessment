@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
+  - Event loop: 👂 heard
+  - try..catch: 🙋 explained
+  - Non-blocking: 👂 heard
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -19,17 +19,17 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: 🎓 known
   - Async Generator
   - Async Iterator
   - Event
@@ -37,7 +37,7 @@
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility: 🎓 known
   - Middleware
   - Locks
 - Async adapters and utils
@@ -47,8 +47,8 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -59,18 +59,18 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers: 🎓 known
+  - setImmediate: 🎓 known
+  - nextTick: 👂 heard
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
+  - Promise unhandled rejection: 👂 heard
   - Promise double resolve
   - child_process
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 👂 heard
   - Promise hell
   - ref() and unref()
   - Error handling in async code

@@ -6,19 +6,19 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -66,9 +66,9 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - Distributed systems
   - Highload applications
   - Clean architecture
@@ -86,9 +86,9 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
   - TLS
   - Websocket
   - SSE
@@ -103,7 +103,7 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API: 🎓 known
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -114,7 +114,7 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 👂 heard
   - Application configuring
   - Testing
   - CI/CD
@@ -122,8 +122,8 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🎓 known
+  - Console: 👂 heard
   - Inspector
   - Reliability
   - Quality
@@ -136,18 +136,18 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
-  - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
+  - Error: 🎓 known
+  - error.cause: 🎓 known
+  - error.code: 🙋 explained
+  - error.message: 🙋 explained
+  - error.stack: 🙋 explained
+  - How to avoid mixins: 🎓 known
+  - Error.captureStackTrace: 🎓 known
+  - Uncaught exceptions: 🎓 known
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
